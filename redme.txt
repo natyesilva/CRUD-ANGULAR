@@ -1,0 +1,20 @@
+cruid 
+
+1. Banco de Dados
+a. Criação das entidades de Produtos e Categorias
+2. Back-End
+a. Criação de CRUD para
+i. API de Produtos
+ii. API de Categorias
+b. Consumir o banco de dados criado no item 1.
+3. Front-End
+a. Criação de Web Application consumindo as Web APIs com os respectivos CRUDs de Produtos e Categorias
+Critérios de Avaliação
+1. Utilizar MySQL como banco de dados
+2. Utilizar ASP NET MVC ou Angular ou Vue.JS ou React
+3. Estruturação de Código e Qualidade de Escrita
+4. Uso de Pattern
+5. Micro Serviços
+6. Injeção de Dependência
+7. Swagger
+8. UI/UX
